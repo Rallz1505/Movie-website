@@ -1,0 +1,70 @@
+body {
+	background-image: url('img/Background.jpeg');
+	font-family:  arial;
+}
+
+h1 {
+color:whitesmoke;
+	}
+
+	 h2, li{
+color:whitesmoke;
+	}
+
+	a, {
+		
+		color:  blue;
+		}
+
+	
+.FrontImage { 
+    
+    width:  33%;
+    height: 200px;
+    object-fit: cover;
+}
+
+}
+
+button {
+background-color: #999 ;
+	}
+		p {
+background:  #666;
+color:  white;
+/* definere hvor meget bredt background skal gå        ved defination af kun 1 px laver den det hele vejen 
+rundt, ved def af 2 laver den første værdi Toppen og bunden og anden værdi Højre og venstre. 
+Ved def af 4 følger den urets retning rundt men starter ved toppen.*/
+padding:  10px 10px 10px 10px;
+			}
+
+/* Bruger en class til at definere specifikke ting*/
+.Test {
+background:  none;
+color: red;
+	}
+
+#special {
+background: yellow;
+color: blueviolet;
+	}
+
+
+background
+
+
+
+.individual{
+width:  500px;
+height: 300px;
+object-fit: cover;
+	}
+
+
+
+	.background-image {
+		background-image:
+background-size: cover;
+width: 50%;
+height: 100%;
+		}
